@@ -14,8 +14,7 @@ Facebook (FB), Shopify (SHOP), Beyond Meat (BYND), Netflix (NFLX), Pinterest (PI
 Square (SQ), The Trade Desk (TTD), Okta (OKTA), Snap (SNAP), Datadog (DDOG)
 
 
-
-
+<img width="1440" alt="results" src="https://user-images.githubusercontent.com/42550664/201448353-df488ab6-976d-4ef9-a19f-29ae07a8d200.png">
 
 
 
